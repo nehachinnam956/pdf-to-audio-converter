@@ -1,0 +1,7 @@
+fitz
+pyttsx3
+pygame
+speechrecognition
+tk
+deep_translator
+requests
